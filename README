@@ -14,9 +14,9 @@ For example, a puzzle like the one below will be represented in the input file a
 +-----------+
 |  |2 |1 |  |
 +-----------+
-|3 |  |  |	|
+|3 |  |  |  |
 +-----------+
-|  |1 |  |	|
+|  |1 |  |  |
 +-----------+
 
 Please provide only one input puzzle in the above format at a time in the input file. Output will be displayed on the terminal screen for different search techniques.
